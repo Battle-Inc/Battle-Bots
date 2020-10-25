@@ -1,4 +1,4 @@
-package com.battlebots.hub.model.definition;
+package com.battlebots.hub.model.game.definition;
 
 public interface GameDefinition<T extends TurnModel> {
 

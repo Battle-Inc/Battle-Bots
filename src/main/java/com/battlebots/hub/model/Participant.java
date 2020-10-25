@@ -4,4 +4,5 @@ public interface Participant {
 
     String getId();
 
+    String getName();
 }
