@@ -5,4 +5,7 @@ import java.util.Set;
 public interface Hub {
 
     Set<Game> getGames();
+
+    void addGame(Game game);
+
 }
